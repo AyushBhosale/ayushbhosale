@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Rays**
 
-- 💬 Ask me about **Ai & Backend**
+- 💬 Ask me about **Ai, Backend & DSA**
 
 - 📫 How to reach me **ayushbhosale7997@gmail.com**
 
