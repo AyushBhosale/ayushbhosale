@@ -29,7 +29,7 @@ I'm a 3rd-year Artificial Intelligence and Data Science Engineering student, pas
 | Rays-Medico              | Django,Sklearn,Tensorflow                  | [repo link](https://github.com/Rays-Medico/raysWebsite)             | Coming soon          |  
 | NGOdev                   | Django                  | [repo link](https://github.com/AyushBhosale/NGOdev)                | Coming soon                                              |
 | quantBlog               | Django                  | [repo link](https://github.com/AyushBhosale/quantBlog)                                              |                                    |
-| Syra               | Streamlit, Azure                  | [repo link]((https://github.com/AyushBhosale/Syra))                                              |[live_link](syra-gfe2b6hcchcpbsha.canadacentral-01.azurewebsites.net)                       |
+| Syra               | Streamlit, Azure                  | [repo link](https://github.com/AyushBhosale/Syra)                                              |[live_link](syra-gfe2b6hcchcpbsha.canadacentral-01.azurewebsites.net)                       |
     
 
 ## Other Projects
