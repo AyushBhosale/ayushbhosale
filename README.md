@@ -19,8 +19,8 @@ I'm a 3rd-year Artificial Intelligence and Data Science Engineering student, pas
 |  Projects                     | Skills/Tools                                   | Projects                                                             |
 |------------------------------|------------------------------------------------|---------------------------------------------------------------------|
 | Movie Recommendation System            |NLTK, Sklearn.         | [[repo link](https://github.com/AyushBhosale/MovieRecomendationSystem )]                                                    |
-| [Project domain]             | [Skills used]                                  | [Your repo link]                                                    |     
-| [Project domain]             | [Skills used]                                  | [Your repo link]                                                    |     
+| Apple-EDA             | Seaborn                                  | [repo link](https://github.com/AyushBhosale/Apple-EDA)                                                   |     
+| House Prices             | Pandas, Numpy, Sklearn                                 | [repo link](https://github.com/AyushBhosale/HousePrices)                                                   |     
 
 ## Full Stack Projects
 
@@ -28,7 +28,7 @@ I'm a 3rd-year Artificial Intelligence and Data Science Engineering student, pas
 | ------------------------- | ----------------------------------------- | ------------------------------------------------------------------  | --------------------------------------------------------- |
 | Rays-Medico              | Django,Sklearn,Tensorflow                  | [repo link](https://github.com/Rays-Medico/raysWebsite)             | Coming soon          |  
 | NGOdev                   | Django                  | [repo link](https://github.com/AyushBhosale/NGOdev)                | Coming soon                                              |
-| quantBlog               | Django                  | [repo link](https://github.com/AyushBhosale/quantBlog)                                              |                                    |
+| quantBlog               | Django                  | [repo link](https://github.com/AyushBhosale/quantBlog)                                              |  Not Deployed                                  |
 | Syra               | Streamlit, Azure                  | [repo link](https://github.com/AyushBhosale/Syra)                                              |[live_link](syra-gfe2b6hcchcpbsha.canadacentral-01.azurewebsites.net)                       |
     
 
