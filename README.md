@@ -34,10 +34,10 @@ I'm a 3rd-year Artificial Intelligence and Data Science Engineering student, pas
 ## GenAi & Fine-tunning Projects
 | Projects                  | tools / languages                         | links                                                               | 
 | ------------------------- | ----------------------------------------- | ------------------------------------------------------------------  |
-| Finetunnig of Gemma            | Keras                 | [repo link](https://github.com/Rays-Medico/finetunningGemma)             |
-| Syra            | Streamlit, Groq-Api                 | [repo link](https://github.com/AyushBhosale/Syra)             |
-| Kulwadi_Bhushan            | Langchain, Ollama                 | [repo link](https://www.kaggle.com/code/ayushbhosale/kulwadi-bhushan)             |
-| Rag                         | Langchain, Streamlit, Faiss, Azure |        [repo_link](https://github.com/AyushBhosale/Rag)|
+| Finetunnig of Gemma            | Keras                 | [notebook_link](https://github.com/Rays-Medico/finetunningGemma)             |
+| Syra            | Streamlit, Groq-Api                 | [notebook_link](https://github.com/AyushBhosale/Syra)             |
+| Kulwadi_Bhushan            | Langchain, Ollama                 | [notebook_link](https://www.kaggle.com/code/ayushbhosale/kulwadi-bhushan)             |
+| Rag                         | Langchain, Streamlit, Faiss, Azure |        [notebook_link](https://github.com/AyushBhosale/Rag)|
 
 ## Deeplearning 
 | Projects                  | tools / languages                         | links                                                               | 
