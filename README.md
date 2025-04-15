@@ -37,7 +37,7 @@ I'm a 3rd-year Artificial Intelligence and Data Science Engineering student, pas
 | Projects | tools / languages | link |
 |----------|-------------------|------ |
 | Shaids website | React | [live_link](https://shaids-dmce.vercel.app/) |
-| Devflow | Flask | [live_link]((https://devflow-sepia.vercel.app)) |
+| Devflow | Flask | [live_link](https://devflow-sepia.vercel.app) |
 | Docflow | FastApi | [repo_link](https://github.com/FSfarhaan/Devflow_Err6.0) |
 | HackaNova | FastApi | [repo_link](https://github.com/FSfarhaan/Hackanova) |
 
