@@ -12,8 +12,8 @@ I'm a 3rd-year Artificial Intelligence and Data Science Engineering student, pas
 ## Currently working on 
 | Projects                  | tools / languages                         | links                                                               | live links                                                | 
 | ------------------------- | ----------------------------------------- | ------------------------------------------------------------------  | --------------------------------------------------------- |
-| NGOdev                   | [Your technologies here]                  | [repo link](https://github.com/AyushBhosale/NGOdev)                | Coming soon                                              |
-| Rays-Medico              | [Your technologies here]                  | [Your repo link here]                                              | Coming soon                                              |
+| NGOdev                   | Django                  | [repo link](https://github.com/AyushBhosale/NGOdev)                | Coming soon                                              |
+| Rays-Medico              | Django,Sklearn,Tensorflow                  | [repo link](https://github.com/Rays-Medico/raysWebsite)                                               | Coming soon                                              |
 
 ## Data Science Projects
 | Domain                       | Skills/Tools                                   | Projects                                                             |
