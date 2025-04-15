@@ -36,8 +36,17 @@ I'm a 3rd-year Artificial Intelligence and Data Science Engineering student, pas
 | ------------------------- | ----------------------------------------- | ------------------------------------------------------------------  |
 | Finetunnig of Gemma            | Keras                 | [repo link](https://github.com/Rays-Medico/finetunningGemma)             |
 | Syra            | Streamlit, Groq-Api                 | [repo link](https://github.com/AyushBhosale/Syra)             |
-| Kulwadi_Bhushan            | Langchain                 | [repo link](https://www.kaggle.com/code/ayushbhosale/kulwadi-bhushan)             |
-| Rag                         | Langchain, Streamlit, Faiss |        [repo_link](https://github.com/AyushBhosale/Rag)|
+| Kulwadi_Bhushan            | Langchain, Ollama                 | [repo link](https://www.kaggle.com/code/ayushbhosale/kulwadi-bhushan)             |
+| Rag                         | Langchain, Streamlit, Faiss, Azure |        [repo_link](https://github.com/AyushBhosale/Rag)|
+
+## Deeplearning 
+| Projects                  | tools / languages                         | links                                                               | 
+| ------------------------- | ----------------------------------------- | ------------------------------------------------------------------  |
+| Syra-RNN                         | Tensorflow |        [notebook_link](https://www.kaggle.com/code/ayushbhosale/chatbotfinal)|
+| Transfer-learning                         | Tensorflow |        [notebook_link](https://www.kaggle.com/code/ayushbhosale/transfer-learning/edit)|
+| Names-Generator| Tensorflow | [notebook_link](https://www.kaggle.com/code/ayushbhosale/name-generator/edit)|
+| Heritage | Tensorflow | [notebook_link](https://www.kaggle.com/code/ayushbhosale/paper-indian-heritage)
+| Skin-Cancer | Tensorflow | [notebook_link](https://www.kaggle.com/code/ayushbhosale/skin-cancer-with-tensorflow-and-cnn/edit)
 
 
 ## Other Projects
