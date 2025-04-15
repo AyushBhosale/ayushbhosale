@@ -13,7 +13,7 @@ I'm a 3rd-year Artificial Intelligence and Data Science Engineering student, pas
 | Projects                  | tools / languages                         | links                                                               | live links                                                | 
 | ------------------------- | ----------------------------------------- | ------------------------------------------------------------------  | --------------------------------------------------------- |
 | NGOdev                   | Django                  | [repo link](https://github.com/AyushBhosale/NGOdev)                | Coming soon                                              |
-| Rays-Medico              | Django,Sklearn,Tensorflow                  | [repo link](https://github.com/Rays-Medico/raysWebsite)                                               | Coming soon                                              |
+                            |
 
 ## Data Science Projects
 | Domain                       | Skills/Tools                                   | Projects                                                             |
@@ -28,6 +28,7 @@ I'm a 3rd-year Artificial Intelligence and Data Science Engineering student, pas
 | ------------------------- | ----------------------------------------- | ------------------------------------------------------------------  | --------------------------------------------------------- |
 | NGOdev                   | [Your technologies here]                  | [repo link](https://github.com/AyushBhosale/NGOdev)                | Coming soon                                              |
 | quantBlog               | [Your technologies here]                  | [Your repo link here]                                              | [Your live link here]                                    |
+| Rays-Medico              | Django,Sklearn,Tensorflow                  | [repo link](https://github.com/Rays-Medico/raysWebsite)                                               | Coming soon                  
 
 ## Web Development Projects
 
