@@ -26,25 +26,20 @@ I'm a 3rd-year Artificial Intelligence and Data Science Engineering student, pas
 
 | Projects                  | tools / languages                         | links                                                               | live links                                                | 
 | ------------------------- | ----------------------------------------- | ------------------------------------------------------------------  | --------------------------------------------------------- |
-| NGOdev                   | [Your technologies here]                  | [repo link](https://github.com/AyushBhosale/NGOdev)                | Coming soon                                              |
-| quantBlog               | [Your technologies here]                  | [Your repo link here]                                              | [Your live link here]                                    |
-| Rays-Medico              | Django,Sklearn,Tensorflow                  | [repo link](https://github.com/Rays-Medico/raysWebsite)                                               | Coming soon                  
-
-## Web Development Projects
-
-| Projects | tools / languages | links |
-|----------|-------------------|------ |
-| Shaids website | [Your technologies here] | [Your repo/live link] |
-| Devflow | [Your technologies here] | [Your repo/live link] |
-| Docflow | [Your technologies here] | [Your repo/live link] |
+| Rays-Medico              | Django,Sklearn,Tensorflow                  | [repo link](https://github.com/Rays-Medico/raysWebsite)             | Coming soon          |  
+| NGOdev                   | Django                  | [repo link](https://github.com/AyushBhosale/NGOdev)                | Coming soon                                              |
+| quantBlog               | Django                  | [repo link](https://github.com/AyushBhosale/quantBlog)                                              |                                    |
+| Syra               | Streamlit, Azure                  | [repo link]((https://github.com/AyushBhosale/Syra))                                              |[live_link](syra-gfe2b6hcchcpbsha.canadacentral-01.azurewebsites.net)                       |
+    
 
 ## Other Projects
 
-| name  | Domain | tools / languages | links|
-|-------|--------|-------------------|------|
-| [Project name] | [Domain] | [Technologies used] | [Your repo link] |
-| [Project name] | [Domain] | [Technologies used] | [Your repo link] |
-| [Project name] | [Domain] | [Technologies used] | [Your repo link] |
+| Projects | tools / languages | link |
+|----------|-------------------|------ |
+| Shaids website | React | [live_link](https://shaids-dmce.vercel.app/) |
+| Devflow | Flask | [live_link]((https://devflow-sepia.vercel.app)) |
+| Docflow | FastApi | [repo_link](https://github.com/FSfarhaan/Devflow_Err6.0) |
+| HackaNova | FastApi | [repo_link](https://github.com/FSfarhaan/Hackanova) |
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
