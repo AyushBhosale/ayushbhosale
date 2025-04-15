@@ -16,9 +16,9 @@ I'm a 3rd-year Artificial Intelligence and Data Science Engineering student, pas
                             |
 
 ## Data Science Projects
-| Domain                       | Skills/Tools                                   | Projects                                                             |
+|  Projects                     | Skills/Tools                                   | Projects                                                             |
 |------------------------------|------------------------------------------------|---------------------------------------------------------------------|
-| [Project domain]             | Python, TensorFlow, scikit-learn, etc.         | [Your repo link]                                                    |
+| Movie Recommendation System            |NLTK, Sklearn.         | [[repo link](https://github.com/AyushBhosale/MovieRecomendationSystem )]                                                    |
 | [Project domain]             | [Skills used]                                  | [Your repo link]                                                    |     
 | [Project domain]             | [Skills used]                                  | [Your repo link]                                                    |     
 
