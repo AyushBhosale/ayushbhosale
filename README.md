@@ -13,13 +13,13 @@ I'm a 3rd-year Artificial Intelligence and Data Science Engineering student, pas
 | Projects                  | tools / languages                         | links                                                               | live links                                                | 
 | ------------------------- | ----------------------------------------- | ------------------------------------------------------------------  | --------------------------------------------------------- |
 | NGOdev                   | Django                  | [repo link](https://github.com/AyushBhosale/NGOdev)                | Coming soon                                              |
-                            |
+                            
 
 ## Data Science Projects
 |  Projects                     | Skills/Tools                                   | Projects                                                             |
 |------------------------------|------------------------------------------------|---------------------------------------------------------------------|
-| Movie Recommendation System            |NLTK, Sklearn.         | [[repo link](https://github.com/AyushBhosale/MovieRecomendationSystem )]                                                    |
-| Apple-EDA             | Seaborn                                  | [repo link](https://github.com/AyushBhosale/Apple-EDA)                                                   |     
+| Movie Recommendation System            |NLTK, Sklearn.         | [repo link](https://github.com/AyushBhosale/MovieRecomendationSystem )                                                   |
+| Apple-EDA             | Seaborn, Sklearn                                  | [repo link](https://github.com/AyushBhosale/Apple-EDA)                                                   |     
 | House Prices             | Pandas, Numpy, Sklearn                                 | [repo link](https://github.com/AyushBhosale/HousePrices)                                                   |     
 
 ## Full Stack Projects
@@ -30,7 +30,15 @@ I'm a 3rd-year Artificial Intelligence and Data Science Engineering student, pas
 | NGOdev                   | Django                  | [repo link](https://github.com/AyushBhosale/NGOdev)                | Coming soon                                              |
 | quantBlog               | Django                  | [repo link](https://github.com/AyushBhosale/quantBlog)                                              |  Not Deployed                                  |
 | Syra               | Streamlit, Azure                  | [repo link](https://github.com/AyushBhosale/Syra)                                              |[live_link](syra-gfe2b6hcchcpbsha.canadacentral-01.azurewebsites.net)                       |
-    
+
+## GenAi & Fine-tunning Projects
+| Projects                  | tools / languages                         | links                                                               | 
+| ------------------------- | ----------------------------------------- | ------------------------------------------------------------------  |
+| Finetunnig of Gemma            | Keras                 | [repo link](https://github.com/Rays-Medico/finetunningGemma)             |
+| Syra            | Streamlit, Groq-Api                 | [repo link](https://github.com/AyushBhosale/Syra)             |
+| Kulwadi_Bhushan            | Langchain                 | [repo link](https://www.kaggle.com/code/ayushbhosale/kulwadi-bhushan)             |
+| Rag                         | Langchain, Streamlit, Faiss |        [repo_link](https://github.com/AyushBhosale/Rag)|
+
 
 ## Other Projects
 
