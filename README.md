@@ -12,7 +12,7 @@ I'm a 4th-year Artificial Intelligence and Data Science Engineering student, pas
 ## Currently working on 
 | Projects                  | tools / languages                         | links                                                               | live links                                                | 
 | ------------------------- | ----------------------------------------- | ------------------------------------------------------------------  | --------------------------------------------------------- |
-| NGOdev                   | Django                  | [repo link](https://github.com/AyushBhosale/NGOdev)                | Coming soon                                              |
+| WingWoman                   | React and Django                  | coming soon              | Coming soon                                              |
                             
 
 ## Data Science Projects
@@ -26,10 +26,10 @@ I'm a 4th-year Artificial Intelligence and Data Science Engineering student, pas
 
 | Projects                  | tools / languages                         | links                                                               | live links                                                | 
 | ------------------------- | ----------------------------------------- | ------------------------------------------------------------------  | --------------------------------------------------------- |
-| Rays-Medico              | Django,Sklearn,Tensorflow                  | [repo link](https://github.com/Rays-Medico/raysWebsite)             | Coming soon          |  
-| NGOdev                   | Django                  | [repo link](https://github.com/AyushBhosale/NGOdev)                | Coming soon                                              |
-| quantBlog               | Django                  | [repo link](https://github.com/AyushBhosale/quantBlog)                                              |  Not Deployed                                  |
+| Rays-Medico              | Django,Sklearn,Tensorflow                  | [repo link](https://github.com/Rays-Medico/raysWebsite)             | Not Deployed          |  
 | Syra               | Streamlit, Azure                  | [repo link](https://github.com/AyushBhosale/Syra)                                              |[live_link](https://syra-gfe2b6hcchcpbsha.canadacentral-01.azurewebsites.net/)                       |
+| CurioBot               | React, FastApi, Azure                 | [repo link]()                                              |[live_link](https://youtu.be/wFK7jofEwAY?si=1FdNPsEiY3q2H3we)                       |
+| Peppo               | React, FastApi, Azure, Docker                  | [repo link](https://github.com/AyushBhosale/challengePepo)                                              |[live_link](https://frontend-pepo-latest.onrender.com)                       |
 
 ## GenAi & Fine-tunning Projects
 | Projects                  | tools / languages                         | links                                                               | 
