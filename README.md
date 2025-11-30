@@ -12,7 +12,7 @@ I'm a 4th-year Artificial Intelligence and Data Science Engineering student, pas
 ## Currently working on 
 | Projects                  | tools / languages                         | links                                                               | live links                                                | 
 | ------------------------- | ----------------------------------------- | ------------------------------------------------------------------  | --------------------------------------------------------- |
-| WingWoman                   | React and Django                  | coming soon              | Coming soon                                              |
+| WingWoman                   | React and fastapi                  | coming soon              | Coming soon                                              |
                             
 
 ## Data Science Projects
