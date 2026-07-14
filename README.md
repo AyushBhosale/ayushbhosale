@@ -14,6 +14,14 @@
 
 <br>
 
+<div align="center">
+
+<img src="./assets/terminal_banner.svg" alt="ayush@dev neofetch" width="700">
+
+</div>
+
+<br>
+
 ```bash
 ayush@devbox:~$ cat about.txt
 ```
