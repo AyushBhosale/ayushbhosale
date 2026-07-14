@@ -1,4 +1,4 @@
-![Logo](untitled design.png)
+![Logo](untitled_design.png)
 
 <div align="center">
 
