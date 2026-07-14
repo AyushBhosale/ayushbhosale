@@ -1,4 +1,6 @@
-![Logo](untitled_design.png)
+<p align="center">
+  <img src="Untitled_design.png" width="400"/>
+</p>
 
 <div align="center">
 
