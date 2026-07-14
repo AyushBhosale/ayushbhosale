@@ -1,128 +1,159 @@
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────┐
-│  guest@ayush-bhosale ~ % whoami                           │
-│  > Ayush Bhosale                                          │
-│  guest@ayush-bhosale ~ % cat role.txt                     │
-│  > Software & AI/ML Engineer                              │
-│  guest@ayush-bhosale ~ % _                                │
-└──────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════╗
+║  AYUSH_BHOSALE.exe                                    [RUNNING]  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=AyushBhosale&color=00ff00&style=for-the-badge&label=CONNECTIONS+ESTABLISHED)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=%3E+whoami;Software+%26+AI%2FML+Engineer;%3E+focus+--list;Full-Stack+Dev+%2B+Data+Science;%3E+status;Building+at+the+intersection+of+AI+%26+Software)
+
+![Profile Views](https://komarev.com/ghpvc/?username=AyushBhosale&style=for-the-badge&color=39FF14&label=TERMINAL+VISITS)
 
 </div>
 
+<br>
+
 ```bash
-$ ./boot_profile.sh --verbose
-[OK] Loading identity module...........................done
-[OK] Mounting interests: full-stack, AI/ML, data science...done
-[OK] Focus: intersection of AI, data & software engineering
-[READY] System online. Scroll to explore >>
+ayush@devbox:~$ cat about.txt
 ```
 
----
+> Software and AI/ML Engineer, passionate about full-stack development and
+> Data Science. Focused on the intersection of AI, data, and software
+> engineering.
 
-### `[ system_log ]` CERTIFICATIONS
+<br>
 
-```
-> CERT_NAME ........... Deeplearning
-> ISSUER ............... deeplearning.ai
-> LINK .................. https://www.deeplearning.ai/
-```
-
----
-
-### `[ dir: /research/architectures ]` AI RESEARCH & ARCHITECTURES 🔬
-
-```
-drwxr-xr-x  transformers/              [Encoder-Decoder, Self-Attention]
-             └─ https://github.com/AyushBhosale/transformers
-
-drwxr-xr-x  embeddings-from-scratch/   [Vectorization, Semantic Mapping]
-             └─ https://github.com/AyushBhosale/Embeddings-from-scratch
+```bash
+ayush@devbox:~$ ls ./certifications/
 ```
 
----
+<div align="center">
 
-### `[ process_monitor ]` CURRENTLY RUNNING
+| NAME | RESOURCE_LINK |
+| :--- | :--- |
+| `Deeplearning` | [Deeplearning.ai](https://www.deeplearning.ai/) |
 
-```
-PID   PROCESS      STACK              STATUS
-001   WingWoman    React, FastAPI     [■■■■■■□□□□] IN_PROGRESS
-```
+</div>
 
----
+<br>
 
-### `[ dir: /genai/finetuning ]` GENAI & FINE-TUNING
-
-```
-drwxr-xr-x  finetuning-gemma/    [Keras]                → github.com/Rays-Medico/finetunningGemma
-drwxr-xr-x  syra/                [Streamlit, Groq API]  → github.com/AyushBhosale/Syra
-drwxr-xr-x  kulwadi_bhushan/     [LangChain, Ollama]    → kaggle.com/code/ayushbhosale/kulwadi-bhushan
-drwxr-xr-x  rag/                 [LangChain, FAISS, Azure] → github.com/AyushBhosale/Rag
+```bash
+ayush@devbox:~$ ls ./ai_research_and_architectures/
 ```
 
----
+<div align="center">
 
-### `[ dir: /data_science ]` DATA SCIENCE & DEEP LEARNING
+| PROJECT | FOCUS / TOOLS | LINK |
+| :--- | :--- | :--- |
+| `Transformers` | Encoder-Decoder, Self-Attention | [repo_link](https://github.com/AyushBhosale/transformers) |
+| `Embeddings_from_scratch` | Vectorization, Semantic Mapping | [repo_link](https://github.com/AyushBhosale/Embeddings-from-scratch) |
 
-```
-drwxr-xr-x  skin-cancer/            [CNN, TensorFlow]     → kaggle.com/code/ayushbhosale/skin-cancer-with-tensorflow-and-cnn
-drwxr-xr-x  movie-recommendation/   [NLTK, Sklearn]       → github.com/AyushBhosale/MovieRecomendationSystem
-drwxr-xr-x  syra-rnn/               [TensorFlow]          → kaggle.com/code/ayushbhosale/chatbotfinal
-drwxr-xr-x  apple-eda/              [Seaborn]             → github.com/AyushBhosale/Apple-EDA
-```
+</div>
 
----
+<br>
 
-### `[ dir: /deployments ]` FULL STACK PROJECTS
-
-```
-$ ls -la --deployed
-
-peppo/          React, FastAPI, Docker     [LIVE]  → frontend-pepo-latest.onrender.com
-syra/           Streamlit, Azure           [LIVE]  → syra-gfe2b6hcchcpbsha.canadacentral-01.azurewebsites.net
-curiobot/       React, FastAPI             [DEMO]  → youtu.be/wFK7jofEwAY
-rays-medico/    Django, TensorFlow         [REPO]  → github.com/Rays-Medico/raysWebsite
+```bash
+ayush@devbox:~$ ps --status=running
 ```
 
----
+<div align="center">
 
-### `[ env: languages_and_tools ]`
+| PROJECT | TOOLS | STATUS |
+| :--- | :--- | :--- |
+| `WingWoman` | React, FastAPI | 🟡 `IN_PROGRESS` |
 
-<p align="left">
+</div>
+
+<br>
+
+```bash
+ayush@devbox:~$ ls ./genai_and_finetuning/
+```
+
+<div align="center">
+
+| PROJECT | TOOLS | LINK |
+| :--- | :--- | :--- |
+| `Finetuning_Gemma` | Keras | [notebook](https://github.com/Rays-Medico/finetunningGemma) |
+| `Syra` | Streamlit, Groq-Api | [repo](https://github.com/AyushBhosale/Syra) |
+| `Kulwadi_Bhushan` | Langchain, Ollama | [notebook](https://www.kaggle.com/code/ayushbhosale/kulwadi-bhushan) |
+| `RAG` | Langchain, Faiss, Azure | [repo](https://github.com/AyushBhosale/Rag) |
+
+</div>
+
+<br>
+
+```bash
+ayush@devbox:~$ ls ./data_science_and_deep_learning/
+```
+
+<div align="center">
+
+| PROJECT | TOOLS | LINK |
+| :--- | :--- | :--- |
+| `Skin-Cancer` | CNN, Tensorflow | [notebook](https://www.kaggle.com/code/ayushbhosale/skin-cancer-with-tensorflow-and-cnn/edit) |
+| `Movie_Recommendation` | NLTK, Sklearn | [repo](https://github.com/AyushBhosale/MovieRecomendationSystem) |
+| `Syra-RNN` | Tensorflow | [notebook](https://www.kaggle.com/code/ayushbhosale/chatbotfinal) |
+| `Apple-EDA` | Seaborn | [repo](https://github.com/AyushBhosale/Apple-EDA) |
+
+</div>
+
+<br>
+
+```bash
+ayush@devbox:~$ ls ./full_stack_projects/ --deployed
+```
+
+<div align="center">
+
+| PROJECT | TOOLS | LINK |
+| :--- | :--- | :--- |
+| `Peppo` | React, FastAPI, Docker | [Live](https://frontend-pepo-latest.onrender.com) |
+| `Syra` | Streamlit, Azure | [Live](https://syra-gfe2b6hcchcpbsha.canadacentral-01.azurewebsites.net/) |
+| `CurioBot` | React, FastAPI | [Video](https://youtu.be/wFK7jofEwAY) |
+| `Rays-Medico` | Django, Tensorflow | [repo](https://github.com/Rays-Medico/raysWebsite) |
+
+</div>
+
+<br>
+
+```bash
+ayush@devbox:~$ cat /proc/toolchain/languages_and_tools
+```
+
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-</p>
 
----
+</div>
 
-### `[ established_connections ]`
+<br>
 
 ```bash
-$ ping ayush --contact-info
-
-LinkedIn ......... reachable   → linkedin.com/in/ayush-bhosale-207ba7250
-Email ............ reachable   → ayushbhosale7997@gmail.com
-Instagram ........ reachable   → instagram.com/ayush._.bhosale
+ayush@devbox:~$ ./connect.sh --open-socket
 ```
 
-<p align="center">
-<a href="https://www.linkedin.com/in/ayush-bhosale-207ba7250/"><img src="https://img.icons8.com/nolan/64/linkedin.png" width="45" /></a>
-<a href="mailto:ayushbhosale7997@gmail.com"><img src="https://img.icons8.com/nolan/64/new-post.png" width="45" /></a>
-<a href="https://www.instagram.com/ayush._.bhosale/"><img src="https://img.icons8.com/nolan/64/instagram-new.png" width="45" /></a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-39FF14?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000)](https://www.linkedin.com/in/ayush-bhosale-207ba7250/)
+[![Email](https://img.shields.io/badge/EMAIL-MESSAGE-39FF14?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000)](mailto:ayushbhosale7997@gmail.com)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-39FF14?style=for-the-badge&logo=instagram&logoColor=black&labelColor=000000)](https://www.instagram.com/ayush._.bhosale/)
+
+</div>
+
+<br>
 
 <div align="center">
 
 ```
-> END OF FILE
-> guest@ayush-bhosale ~ % _
+╔══════════════════════════════════════════════════════════════════╗
+║  [ END OF FILE ]   process exited with code 0   █▌               ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
